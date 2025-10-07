@@ -1,6 +1,6 @@
-<h1 align="center">🦷 Dentwise – Dental Platform with AI Voice Agent 🦷</h1>
+<h1 align="center">🦷 Evercare – Dental Platform with AI Voice Agent 🦷</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+<!-- ![Demo App](/public/screenshot-for-readme.png) -->
 
 Highlights:
 
